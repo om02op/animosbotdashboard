@@ -1,7 +1,19 @@
-Free discord bot site template. Not the best, but using variables so it's easy to change things on it. 
+A Dashboard made specially for ANIMOS BOT. Designed By Fire Team.
 
-To change the colors go to styles.css and change the color on main-color and --secondary. Changing the background color is also allowed, but not recomened as the text doesn't use variables, and somethings may end up looking bad.
+Fire Team Members:-
 
+1] Om Rajguru (Owner)\
+2] Akshay Joshi (Moderator)\
+3] Samiksha Shah (Female Ward Owner)\
+4] Nischay Malhan (Designer)\
+5] Purav Malhan (Designer)\
+6] Dev Joshi (Scripting Ward)\
+7] Aniket Jadhav (Graphics Deigner)\
+8] Advika Chopra (Cross Checking Ward)\
+9] Anusha Jadhav (Cross Checking Ward)\
+10] Shaurya Gaikwad (Cross Checking Ward)
 
+You should take permission of Moderator personally to re-use this template.\
+You can contact them on [gmail](contactfireteam520@gmail.com) or On [Discord](https://dsc.gg/thenestserver)
 
-It isn't the best, but I made it in about an hour. 
+**Thanks For Reading!!**
