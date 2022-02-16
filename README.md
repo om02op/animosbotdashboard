@@ -1,2 +1,7 @@
-# animosbotdashboard
-A Dhasboard made for ANIMOS BOT. Designed by Fire Team. Main Members:- Akshay Joshi.Samiksha Shah,Om Rajguru,Dev Joshi,Aniket Jadhav,Purav Malhan,Nischay Malhan.
+Free discord bot site template. Not the best, but using variables so it's easy to change things on it. 
+
+To change the colors go to styles.css and change the color on main-color and --secondary. Changing the background color is also allowed, but not recomened as the text doesn't use variables, and somethings may end up looking bad.
+
+
+
+It isn't the best, but I made it in about an hour. 
