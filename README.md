@@ -14,6 +14,6 @@ Fire Team Members:-
 10] Shaurya Gaikwad (Cross Checking Ward)
 
 You should take permission of Moderator personally to re-use this template.\
-You can contact them on [gmail](contactfireteam520@gmail.com) or On [Discord](https://dsc.gg/thenestserver)
+You can contact them on contactfireteam520@gmail.com or On [Discord](https://dsc.gg/thenestserver)
 
 **Thanks For Reading!!**
